@@ -136,7 +136,8 @@ ifeq ($(BOOTLEGGERS_BUILD_NAVBAR_OVERLAYS),true)
         NavbarOnePlusOverlay \
         NavbarOneUiOverlay \
         NavbarSammyOverlay \
-        NavbarTecnoCamonOverlay
+        NavbarTecnoCamonOverlay \
+        NavbarDoraOverlay
 endif
 
 # Theme-Required overlays packages
